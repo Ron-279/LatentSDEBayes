@@ -1,0 +1,13 @@
+name = "LatentSDEBayes"
+uuid = "21909e9c-fb2a-466a-bd10-00a70ebfe64a"
+authors = ["Ron-27 <ronmaor@sas.upenn.edu> and contributors"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1.9"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
