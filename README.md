@@ -232,7 +232,7 @@ If you use this package in your research, please cite:
 
 ```bibtex
 @software{LatentSDEBayes,
-  author = {Ron Chuk},
+  author = {Ron Maor},
   title  = {LatentSDEBayes.jl: Bayesian inference for latent SDEs via particle MCMC},
   year   = {2025},
   url    = {https://github.com/your-username/LatentSDEBayes.jl}
