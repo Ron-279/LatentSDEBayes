@@ -1,3 +1,3 @@
 var documenterSearchIndex = {"docs":
-[{"location":"#LatentSDEBayes","page":"Home","title":"LatentSDEBayes","text":"Documentation for LatentSDEBayes.\n\n","category":"section"}]
+[{"category":"section","location":"#LatentSDEBayes","page":"Home","text":"Documentation for LatentSDEBayes.\n\n","title":"LatentSDEBayes"}]
 }
